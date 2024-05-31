@@ -16,7 +16,7 @@ function RegisterPage() {
             required
           />
           <input
-            placeholder="Confirm Password"
+            placeholder="Confirm the Password"
             name="confirmpassword"
             type="password"
             required
